@@ -21,14 +21,23 @@ A personal portfolio website showcasing my web development projects, technical s
 
 ## 📂 Project Structure
 portfolio/
+
 │── index.html        # Main entry point of the website
+
 │── css/
+
 │   └── style.css     # Styles for the portfolio
+
 │── js/
+
 │   └── script.js     # JavaScript functionality
+
 │── assets/
+
 │   ├── images/       # Images used in the site
+
 │   └── icons/        # Icons and logos
+
 
 
 ## 🎯 Purpose
